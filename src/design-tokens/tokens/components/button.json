@@ -1,0 +1,37 @@
+{
+  "button": {
+    "background-color": {
+      "solid": {
+        "default": {
+          "value": "{color.blue_grey.5}"
+        },
+        "hover": {
+          "value": "{color.light_blue.5}"
+        }
+      }
+    },
+    "border-color": {
+      "outline": {
+        "value": "{color.blue.80}"
+      }
+    },
+    "border-width": {
+      "outline": {
+        "value": "1px"
+      }
+    },
+    "border-style": {
+      "outline": {
+        "value": "solid"
+      }
+    },
+    "border-radius": {
+      "outline": {
+        "value": "100px"
+      },
+      "solid": {
+        "value": "50px"
+      }
+    }
+  }
+}

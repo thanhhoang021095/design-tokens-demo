@@ -1,5 +1,6 @@
 import { render, screen } from '@testing-library/react';
 import App from './App';
+import './scss/_tokens.scss';
 
 test('renders learn react link', () => {
   render(<App />);
